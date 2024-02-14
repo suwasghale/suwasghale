@@ -9,7 +9,7 @@ I'm a Full-Stack Web Developer specialized in creating dynamic and user-friendly
 - **Database**: MongoDB, PostgreSQL, MySQL
 - **Mobile Development**: Flutter, Dart
 - **AI/ML & Data Science**: Python, TensorFlow, Scikit-Learn, Pandas, NumPy
-- **Tools**: Git, Docker, Jenkins, AWS, Mocha, Chai, Selenium
+- **Tools**: Git, Docker, Mocha, Chai, Selenium
 - **Others**: C and Java programming languages
 
 ## 🌟 Projects
