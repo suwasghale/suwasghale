@@ -25,9 +25,9 @@ Feel free to check out my [GitHub](https://github.com/SuwasG) for more projects!
 
 ## 📫 How to Reach Me
 
-- **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/suwas-ghale/)
-- **Twitter**: [Twitter](https://x.com/Suwas60535281?t=92GlvCPnU8r9B8Xo9KJypQ&s=09)
-- **Email**: [Email](mailto:suwasghale2281@gmail.com)
+- **LinkedIn**: [suwas-ghale](https://www.linkedin.com/in/suwas-ghale/)
+- **Twitter**: [Suwas Ghale](https://x.com/Suwas60535281?t=92GlvCPnU8r9B8Xo9KJypQ&s=09)
+- **Email**: [suwasghale2281@gmail.com](mailto:suwasghale2281@gmail.com)
 
 ## 🎉 Fun Fact
 
