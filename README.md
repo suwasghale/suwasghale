@@ -4,12 +4,14 @@ I'm a Full-Stack Web Developer specialized in creating dynamic and user-friendly
 
 ## 🚀 Technologies and Tools
 
-- **Frontend**: HTML, CSS, JavaScript, Bootstrap, Tailwind CSS, React.js
-- **Backend**: Node.js, Express.js, Django
+- **Frontend**: HTML, CSS, JavaScript, Bootstrap, Tailwind CSS, React.js, Next.js
+- **Backend**: Node.js, Express.js, Django, Django Rest framework
 - **Database**: MongoDB, PostgreSQL, MySQL
 - **Mobile Development**: Flutter, Dart
+- **GUI Development**: Tkinter
 - **AI/ML & Data Science**: Python, TensorFlow, Scikit-Learn, Pandas, NumPy
 - **Tools**: Git, Docker, Mocha, Chai, Selenium
+- **Security & Penetration Testing**: Kali Linux, Nmap, Burp Suite, John the Ripper, Hashcat, Netcat
 - **Others**: C and Java programming languages
 
 ## 🌟 Projects
