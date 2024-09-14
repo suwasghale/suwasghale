@@ -1,16 +1,15 @@
 # Hello, World! 👋
 
-I'm a Full-Stack Web Developer specialized in creating dynamic and user-friendly web applications using Django and the MERN stack. I'm deeply fascinated by the potential of AI, ML, and data science to solve complex problems and provide insights from data. Besides web development, I'm also a Flutter developer, crafting intuitive and beautiful mobile applications.
+I'm a Full-Stack Web Developer specialized in creating dynamic and user-friendly web applications using Django and the MERN stack. I'm deeply fascinated by the potential of AI, ML, and data science to solve complex problems and provide insights from data.
 
 ## 🚀 Technologies and Tools
 
-- **Frontend**: HTML, CSS, JavaScript, Bootstrap, Tailwind CSS, React.js, Next.js
+- **Frontend**: HTML, CSS, JavaScript, TypeScript, Bootstrap, Tailwind CSS, React.js, Next.js
 - **Backend**: Node.js, Express.js, Django, Django Rest framework
-- **Database**: MongoDB, PostgreSQL, MySQL
-- **Mobile Development**: Flutter, Dart
+- **Database**: MongoDB, MySQL
 - **GUI Development**: Tkinter
-- **AI/ML & Data Science**: Python, TensorFlow, Scikit-Learn, Pandas, NumPy
-- **Tools**: Git, Docker, Mocha, Chai, Selenium
+- **AI/ML & Data Science**: Python, Pandas, NumPy, Matplotlib
+- **Tools**: Git, Docker, Postman
 - **Security & Penetration Testing**: Kali Linux, Nmap, Burp Suite, John the Ripper, Hashcat, Netcat
 - **Others**: C and Java programming languages
 
@@ -18,12 +17,10 @@ I'm a Full-Stack Web Developer specialized in creating dynamic and user-friendly
 
 Here are a few projects I'm particularly proud of:
 
-- **E-Commerce Platform** (Django & React): A fully-featured online store with payment integration.
-- **Social Media App** (MERN Stack): A platform for users to share and connect.
-- **Weather Forecasting App** (Flutter): A mobile app providing real-time weather updates and forecasts.
-- **Data Analysis Projects** (Python): Utilizing machine learning models to analyze and predict data trends.
+- **E-Commerce Platform** (MERN): A basic E-commerce website for local business/store.
+  [lucky-dairy.com](https://lucky-dairy.com)
 
-Feel free to check out my [GitHub](https://github.com/SuwasG) for more projects!
+Feel free to check out my [GitHub](https://github.com/suwasg) for more projects!
 
 ## 📫 How to Reach Me
 
