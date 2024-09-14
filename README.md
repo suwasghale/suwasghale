@@ -17,7 +17,7 @@ I'm a Full-Stack Web Developer specialized in creating dynamic and user-friendly
 
 Here are a few projects I'm particularly proud of:
 
-- **E-Commerce Platform** (MERN): A basic E-commerce website for local business/store.
+- **E-Commerce Platform** (MERN): A basic E-commerce website for local business/store developed using MERN Stack with MySql Database and Typescript on both Backend as well as on Frontend.
   [lucky-dairy.com](https://lucky-dairy.com)
 
 Feel free to check out my [GitHub](https://github.com/suwasg) for more projects!
