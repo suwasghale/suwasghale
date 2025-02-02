@@ -16,8 +16,10 @@ I'm a Full-Stack Web Developer specialized in creating dynamic and user-friendly
 ## 🌟 Projects
 
 Here are a few projects I'm particularly proud of:
+- **Travel Agency Website** (MERN): A fully responsive travel agency website developed using the MERN stack with a MySQL database. The project features a JavaScript-based backend and frontend, offering a seamless user experience for booking and travel management.
+  [aucoeurdunepal.com](https://aucoeurdunepal.com)
 
-- **E-Commerce Platform** (MERN): A basic E-commerce website for local business/store developed using MERN Stack with MySql Database and Typescript on both Backend as well as on Frontend.
+- **E-Commerce Platform** (MERN): A fully responsive simple e-commerce website designed for local businesses/stores. This project is built using the MERN stack with a MySQL database and TypeScript on both the backend and frontend, ensuring type safety and scalability for future enhancements.
   [lucky-dairy.com](https://lucky-dairy.com)
 
 Feel free to check out my [GitHub](https://github.com/suwasg) for more projects!
