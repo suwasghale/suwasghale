@@ -1,39 +1,29 @@
-# Hello, World! 👋
+<h1 align="center">Hi 👋, I'm Suwas Ghale</h1>
+<h3 align="center">I'm a Full-Stack Web Developer specialized in creating dynamic and user-friendly web applications using Django and the MERN stack. I'm deeply fascinated by the potential of AI, ML, and data science to solve complex problems and provide insights from data.</h3>
 
-I'm a Full-Stack Web Developer specialized in creating dynamic and user-friendly web applications using Django and the MERN stack. I'm deeply fascinated by the potential of AI, ML, and data science to solve complex problems and provide insights from data.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=suwasg&label=Profile%20views&color=0e75b6&style=flat" alt="suwasg" /> </p>
 
-## 🚀 Technologies and Tools
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suwasg" alt="suwasg" /></a> </p>
 
-- **Frontend**: HTML, CSS, JavaScript, TypeScript, Bootstrap, Tailwind CSS, React.js, Next.js
-- **Backend**: Node.js, Express.js, Django, Django Rest framework
-- **Database**: MongoDB, MySQL
-- **GUI Development**: Tkinter
-- **AI/ML & Data Science**: Python, Pandas, NumPy, Matplotlib
-- **Tools**: Git, Docker, Postman
-- **Security & Penetration Testing**: Kali Linux, Nmap, Burp Suite, John the Ripper, Hashcat, Netcat
-- **Others**: C and Java programming languages
+- 🌱 I’m currently learning **Data Science using Python**
 
-## 🌟 Projects
+- 👨‍💻 All of my projects are available at [github.com/suwasg](github.com/suwasg)
 
-Here are a few projects I'm particularly proud of:
-- **Travel Agency Website** (MERN): A fully responsive travel agency website developed using the MERN stack with a MySQL database. The project features a JavaScript-based backend and frontend, offering a seamless user experience for booking and travel management.
-  [aucoeurdunepal.com](https://aucoeurdunepal.com)
+- 📫 How to reach me **suwasghale2281@gmail.com**
 
-- **E-Commerce Platform** (MERN): A fully responsive simple e-commerce website designed for local businesses/stores. This project is built using the MERN stack with a MySQL database and TypeScript on both the backend and frontend, ensuring type safety and scalability for future enhancements.
-  [lucky-dairy.com](https://lucky-dairy.com)
+- ⚡ Fun fact **I'm always in pursuit of learning something new and believe in the power of curiosity. "Stay hungry, stay foolish" is the motto that keeps me exploring the vast tech landscape.**
 
-Feel free to check out my [GitHub](https://github.com/suwasg) for more projects!
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/suwas60535281" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="suwas60535281" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/suwas-ghale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suwas-ghale" height="30" width="40" /></a>
+</p>
 
-## 📫 How to Reach Me
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-- **LinkedIn**: [suwas-ghale](https://www.linkedin.com/in/suwas-ghale/)
-- **Twitter**: [Suwas Ghale](https://x.com/Suwas60535281?t=92GlvCPnU8r9B8Xo9KJypQ&s=09)
-- **Email**: [suwasghale2281@gmail.com](mailto:suwasghale2281@gmail.com)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=suwasg&show_icons=true&locale=en&layout=compact" alt="suwasg" /></p>
 
-## 🎉 Fun Fact
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=suwasg&show_icons=true&locale=en" alt="suwasg" /></p>
 
-I'm always in pursuit of learning something new and believe in the power of curiosity. "Stay hungry, stay foolish" is the motto that keeps me exploring the vast tech landscape.
-
----
-
-Thank you for visiting my profile! Let's connect and build something amazing together.
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suwasg&" alt="suwasg" /></p>
