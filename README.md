@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Suwas Ghale</h1>
-<h3 align="center">I'm a Full-Stack Web Developer specialized in creating dynamic and user-friendly web applications using Django and the MERN stack. I'm deeply fascinated by the potential of AI, ML, and data science to solve complex problems and provide insights from data.</h3>
+<h3 align="center">🚀 Full-Stack Web Developer | Django & MERN ⚡<br>
+Passionate about building dynamic web apps & exploring AI, ML, and data science to unlock insights and solve real-world problems.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suwasg&label=Profile%20views&color=0e75b6&style=flat" alt="suwasg" /> </p>
 
