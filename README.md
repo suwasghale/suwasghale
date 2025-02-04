@@ -6,7 +6,7 @@ Passionate about building dynamic web apps & exploring AI, ML, and data science 
 
 - 🌱 I’m currently learning **Data Science using Python**
 
-- 👨‍💻 All of my projects are available at [github.com/suwasg](github.com/suwasg)
+- 👨‍💻 All of my projects are available at [github.com/suwasg]([github.com/suwasg](https://github.com/suwasg))
 
 - 📫 How to reach me **suwasghale2281@gmail.com**
 
