@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on <br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on A full-stack E-commerce API backend with Django + DRF <br>👯 I’m looking to collaborate on Developer tools that improve productivity<br>🤝 I’m looking for help with Optimizing Django for high-performance & scalability<br>🌱 I’m currently learning Cloud computing (AWS, Docker, VPS hosting)<br>💬 Ask me about Django REST Framework architecture<br>⚡ Fun fact: When I’m not coding, I’m either exploring French 🇫🇷 for DELF B2 or learning how to beat the stock market 📊.
 
 
 ## 🌐 Socials:
